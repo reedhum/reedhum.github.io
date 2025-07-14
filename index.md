@@ -1,7 +1,7 @@
 ## About
-[![ORCID](images/orcid_logo.svg | width=32)](https://orcid.org/0000-0003-2313-1399)
-[![GitHub](images/github_logo.svg | width=32)](https://github.com/reedhum)
-[![LinkedIn](images/linkedin_logo.svg | width=32)](https://www.linkedin.com/in/reedhum)
+[![ORCID](images/orcid_logo.svg)](https://orcid.org/0000-0003-2313-1399)
+[![GitHub](images/github_logo.svg)](https://github.com/reedhum)
+[![LinkedIn](images/linkedin_logo.svg)](https://www.linkedin.com/in/reedhum)
 
 Reed Humphrey is a Ph.D. candidate at the [Evans School of Public Policy & Governance](https://evans.uw.edu/). 
 Since 2021, he has collaborated on the [Managing Future Risk of Increasing Simultaneous Megafires](https://evans.uw.edu/faculty-research/research-centers-and-projects/managing-future-risk-of-increasing-simultaneous-megafires/) research project. 
