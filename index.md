@@ -1,13 +1,3 @@
-  ---
-title: "Reed Humphrey"
-output:
-  html_document:
-    theme: flatly
-    toc: yes
-    toc_float:
-      collapsed: true
----
-
 [![ORCID](images/orcid_logo.svg){width="32"}](https://orcid.org/0000-0003-2313-1399)
 [![GitHub](images/github_logo.svg){width="32"}](https://github.com/reedhum)
 [![LinkedIn](images/linkedin_logo.svg){width="32"}](https://www.linkedin.com/in/reedhum)
