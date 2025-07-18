@@ -11,7 +11,7 @@ His dissertation research focuses on changes in rural communities resulting from
 ## ESIIL Data Short Course
 - [syllabus](https://cu-esiil-edu.github.io/2025-data-short-course/)
 - [interactive map of Haskell Indian Nations University](esiil_data_short_course_2025/haskell.html)
-- [interactive map of the Al Jawf region in Saudi Arabia](esiil_data_short_course_2025/saudi_arabia_veg.html)
+- [interactive map of Joshua Tree, CA](esiil_data_short_course_2025/jt.html)
 
 ## burn_viz
 The burn_viz project provides a novel way of visualizing areas that have burned over multiple years. 
