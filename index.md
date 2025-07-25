@@ -9,9 +9,10 @@ Since 2021, he has collaborated on the [Managing Future Risk of Increasing Simul
 His dissertation research focuses on changes in rural communities resulting from land management policy, urban-to-rural migration, and climate change. 
 
 ## ESIIL Data Short Course
-- [syllabus](https://cu-esiil-edu.github.io/2025-data-short-course/)
-- [interactive map of Haskell Indian Nations University](esiil_data_short_course_2025/haskell.html)
-- [interactive map of Joshua Tree, CA](esiil_data_short_course_2025/jt.html)
+- [Course Syllabus](https://cu-esiil-edu.github.io/2025-data-short-course/)
+- [Interactive map of Haskell Indian Nations University](esiil_data_short_course_2025/haskell.html)
+- [Interactive map of Joshua Tree, CA](esiil_data_short_course_2025/jt.html)
+- [Interactive map of NDVI change in Tubarjal Valley](esiil_data_short_course_2025/tubarjal_ndvi.html)
 
 ## burn_viz
 The burn_viz project provides a novel way of visualizing areas that have burned over multiple years. 
